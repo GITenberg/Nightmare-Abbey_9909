@@ -1,0 +1,39 @@
+_repo: Nightmare-Abbey_9909
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Peacock, Thomas Love
+    aliases:
+    - Peacock, T. L. (Thomas Love)
+    - Peacock, T. Love (Thomas Love)
+    birthdate: 1785
+    deathdate: 1866
+    gutenberg_agent_id: '493'
+    url: http://www.gutenberg.org/2009/agents/493
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Love_Peacock
+description: "Nightmare Abbey was a novella by Thomas Love Peacock, and his third\
+  \ long work of fiction to be published. It was written in late March and June 1818,\
+  \ and published in London in November of the same year by T. Hookham Jr of Old Bond\
+  \ Street and Baldwin, Craddock & Joy of Paternoster Row. The novella was lightly\
+  \ revised by the author in 1837 for republication in Volume 57 of Bentley's Standard\
+  \ Novels.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Gothic Fiction
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9909'
+  wikidata: Q4054406
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcc 'PR'
+- !lcsh 'Gothic fiction (Literary genre)'
+- GITenberg
+title: Nightmare Abbey
+url: http://www.gutenberg.org/ebooks/9909
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%B1%D0%B0%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%9A%D0%BE%D1%88%D0%BC%D0%B0%D1%80%D0%BE%D0%B2
+- https://en.wikipedia.org/wiki/Nightmare_Abbey

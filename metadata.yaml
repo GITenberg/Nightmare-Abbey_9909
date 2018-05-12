@@ -1,5 +1,8 @@
 _repo: Nightmare-Abbey_9909
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Peacock, Thomas Love
@@ -17,6 +20,8 @@ description: "Nightmare Abbey was a novella by Thomas Love Peacock, and his thir
   \ Street and Baldwin, Craddock & Joy of Paternoster Row. The novella was lightly\
   \ revised by the author in 1837 for republication in Volume 57 of Bentley's Standard\
   \ Novels.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9909#Nightmare-Abbey
 gutenberg_bookshelf: Gothic Fiction
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
